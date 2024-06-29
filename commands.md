@@ -5,3 +5,5 @@ git config --global user.name "chuks" && git config --global user.email "chuksmi
 git config --local core.sshCommand "/usr/bin/ssh -i /home/me/.ssh/id_milton" 
 
 ### Full command
+
+### Update user info
